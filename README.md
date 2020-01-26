@@ -18,6 +18,12 @@ cd my-new-project
 
 Start by launching the webserver with
 
+Python 3.x:
+```
+python3 -m http.server
+```
+
+Python 2.x:
 ```
 python -m SimpleHTTPServer 8000
 ```
